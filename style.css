@@ -89,6 +89,9 @@ aside {
    background-color: #5f5f5c;
    left: 20px;
    color: #fff;
+   box-shadow: 2px 6px 28px -4px rgba(0, 0, 0, 0.75);
+   -webkit-box-shadow: 2px 6px 28px -4px rgba(0, 0, 0, 0.75);
+   -moz-box-shadow: 2px 6px 28px -4px rgba(0, 0, 0, 0.75);
 }
 
 aside i,
